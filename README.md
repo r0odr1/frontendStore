@@ -1,20 +1,23 @@
-# Frontend Store
+# 🛍️ Frontend Store
 
-Online clothing store.
+**Online Clothing Store** – Visual interface for an online store focused on fashion and clothing.
 
-## Table of contents
+## 📑 Table of contents
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Authors](#authors)
+- [Features](#features)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+- [Author](#author)
 
-## Overview
+## 🧾 Overview
 
-Visual part of an online store page.
+This project showcases the frontend design of an online clothing store. It focuses on layout, design responsiveness, and user-friendly navigation. The interface is built using modern HTML and CSS techniques, following a mobile-first approach.        
 
-### Screenshot 📷
+### 📸 Screenshot
+
+Here are some screenshots of the project interface:
 
 ![image](https://github.com/r0odr1/frontendStore/assets/126527883/0b09a746-af8e-43ee-b387-6c1b38b8e91c)
 
@@ -29,15 +32,29 @@ Visual part of an online store page.
 ![image](https://github.com/r0odr1/frontendStore/assets/126527883/7ba066a1-21ca-4229-af5a-354faef62493)
 
 
-## My process
+## ✨ Features
 
-### Built with
+- Fully responsive layout
+- Modern and clean design
+- Semantic HTML5 structure
+- Product listings and detail views
+- Shopping cart mockup
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Grid
-- Flexbox
-- Mobile-first workflow
+## 🛠️ Built With
+
+- **HTML5** – Semantic markup
+- **CSS3** – Custom properties and styling
+- **Flexbox & CSS Grid** – For advanced layout control
+- **Mobile-First** – Optimized for all screen sizes
+
+## 🚀 Getting Started
+
+To view the project locally:
+
+1. Clone the repository:
+   
+   ```bash
+   git clone https://github.com/r0odr1/frontendStore.git
 
 ## Authors
 
