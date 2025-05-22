@@ -1,4 +1,4 @@
-# My Team page
+# Frontend Store
 
 Online clothing store.
 
