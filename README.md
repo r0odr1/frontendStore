@@ -56,6 +56,6 @@ To view the project locally:
    ```bash
    git clone https://github.com/r0odr1/frontendStore.git
 
-## Authors
+## 👤 Authors
 
 This project was created by [r0odr1](https://github.com/r0odr1).
